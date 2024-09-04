@@ -1,0 +1,21 @@
+    1  man echo
+    2  cd ..
+    3  cd $HOME
+    4  ls
+    5  cd repogit/
+    6  git clone https://github.com/FrancoRam/ReposArq-SistemasOperativos.git
+    7  ls
+    8  cd ReposArq-SistemasOperativos/
+    9  cd ..
+   10  history
+   11  history > historial.txt
+   12  ls
+   13  cat historial.txt 
+   14  clear
+   15  ls
+   16  cd ReposArq-SistemasOperativos/
+   17  git status 
+   18  cd ..
+   19  ls
+   20  cd ReposArq-SistemasOperativos/
+   21  history > historial.txt
